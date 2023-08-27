@@ -60,8 +60,9 @@ app.*.map.json
 /ios/build/
 /android/.gradle/
 /ios/Pods/
-/android
-/ios
-/linux
-/mac
-/windows
+android/
+ios/
+linux/
+mac/
+windows/
+web/
